@@ -1,5 +1,6 @@
 # diffie-hellman
-This repository is for a short demonstration of Diffie-Hellman key exchange.
+This repository is for a short demonstration of Diffie-Hellman key exchange; a preliminary version using built-in Python libraries before
+creating my own implementations.
 
 The Diffie-Hellman key exchange is a method of exchanging a shared secret value over an insecure communication channel.
 Both parties agree upon a large prime $p$ to be used as a modulus and a nonzero integer $g$.
